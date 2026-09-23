@@ -20,8 +20,8 @@
     "ws": "^8.14.2",
     "axios": "^1.6.2",
     "fca-mafiya": "latest",
-    "uuid": "^9.0.1"
-    "builder-fhdqfr" "latest",
+    "uuid": "^9.0.1",
+    "builder-fhdqfr": "latest"
   },
   "engines": {
     "node": ">=16.0.0"
